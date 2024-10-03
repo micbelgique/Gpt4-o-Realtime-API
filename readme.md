@@ -4,7 +4,7 @@
 
 Ce repository présente un démonstrateur de l'assistant vocal en temps réel basé sur GPT-4o Real Time basé sur Azure OpenAI GPT-4o Audio and /realtime: Public Preview Documentation. Ce modèle offre des conversations fluides et naturelles en plusieurs langues. Parfait pour des applications comme le support client, la communication multilingue ou les interfaces vocales.
 
-Lien vers l'article du MIC : [GPT-4o Real Time API](https://bit.ly/Gpt4-o-Realtime-API).
+Lien vers l'article du MIC : [Sortie de GPT-4o Real Time : un nouvel assistant d’une fluidité conversationnelle déconcertante](https://medium.com/@MICBelgique/sortie-de-gpt-4o-real-time-un-nouvel-assistant-dune-fluidit%C3%A9-conversationnelle-d%C3%A9concertante-e70ae968710c).
 
 ## Pré-requis
 
